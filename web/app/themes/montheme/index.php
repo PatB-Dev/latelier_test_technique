@@ -1,5 +1,5 @@
 <?php get_header() ?>
 
-<div>Patrice test WP3</div>
+<div>Test SECTIONS</div>
 
 <?php get_footer() ?>
