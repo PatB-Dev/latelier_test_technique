@@ -10,7 +10,7 @@
 </head>
 <body>
 <header>
-    <img src="<?php echo get_template_directory_uri(); ?>/images/wecare.jpg"/>
+    <img src="<?php echo get_template_directory_uri(); ?>/images/wecare.jpg" alt="Image du logo Wecare-connect"/>
     <nav>
         <ul>
             <li>Questions fréquentes</li>
