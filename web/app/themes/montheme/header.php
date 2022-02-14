@@ -10,6 +10,8 @@
 </head>
 <body>
 <header>
+    <img src="<?php echo get_template_directory_uri(); ?>/images/wecare.jpg"/>
+    <div>Header v2</div>
     <nav>
         <ul>
             <li>Questions fréquentes</li>
