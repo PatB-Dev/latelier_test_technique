@@ -12,7 +12,7 @@
 <body>
 <header style="background-color: white">
     <div style="display: flex">
-        <img src="<?php echo get_template_directory_uri(); ?>/images/wecare.jpg" alt="Image du logo Wecare-connect"/>
+        <img id="logo" src="<?php echo get_template_directory_uri(); ?>/images/wecare.jpg" alt="Image du logo Wecare-connect"/>
         <nav>
             <ul style="display: flex">
                 <li>Questions fréquentes</li>

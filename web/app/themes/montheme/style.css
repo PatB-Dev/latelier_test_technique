@@ -5,6 +5,7 @@ Author: test technique Patrice (LATELIER)
 nav{
     display: flex;
     align-items: center;
+    margin: auto;
 }
 ul{
     list-style-type: none;
@@ -13,3 +14,6 @@ li{
     margin-left: 20px;
 }
 
+#logo{
+    margin-left: 10%;
+}
