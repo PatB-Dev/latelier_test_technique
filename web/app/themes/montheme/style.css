@@ -9,11 +9,11 @@ nav{
 }
 ul{
     list-style-type: none;
+    font-size: 17px;
 }
 li{
-    margin-left: 20px;
+    margin-left: 30px;
 }
-
 #logo{
     margin-left: 10%;
 }
