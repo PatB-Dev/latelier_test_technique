@@ -23,7 +23,10 @@ li{
 }
 /*Section 1*/
 #section1{
+    /*background-color: #0c0c0c;*/
+    height: 500px;
     background-image: url("images/bg_section_1.jpg");
+    background-size: auto;
 }
 h1, p{
     color: white;
