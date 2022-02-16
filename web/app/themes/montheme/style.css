@@ -2,6 +2,11 @@
 Theme Name: Mon Theme
 Author: test technique Patrice (LATELIER)
  */
+
+header{
+    margin-top: 30px;
+}
+
 nav{
     display: flex;
     align-items: center;
@@ -16,4 +21,8 @@ li{
 }
 #logo{
     margin-left: 10%;
+}
+/*Section 1*/
+h1{
+    margin-left: 50%;
 }

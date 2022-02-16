@@ -1,5 +1,5 @@
 <?php get_header() ?>
 
-<div>SECTIONS</div>
+<h1>Besoin d'aide?</h1>
 
 <?php get_footer() ?>
