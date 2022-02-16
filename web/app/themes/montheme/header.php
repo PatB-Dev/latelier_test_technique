@@ -7,17 +7,21 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>LATELIER</title>
     <?php wp_head() ?>
+    <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/style.css">
 </head>
 <body>
-<header>
-    <img src="<?php echo get_template_directory_uri(); ?>/images/wecare.jpg" alt="Image du logo Wecare-connect"/>
-    <nav>
-        <ul>
-            <li>Questions fréquentes</li>
-            <li>Glossaire</li>
-            <li>Certifications</li>
-            <li>Où acheter</li>
-            <li>Nous contacter</li>
-        </ul>
-    </nav>
+<header style="background-color: white">
+    <div style="display: flex">
+        <img src="<?php echo get_template_directory_uri(); ?>/images/wecare.jpg" alt="Image du logo Wecare-connect"/>
+        <nav>
+            <ul style="display: flex">
+                <li>Questions fréquentes</li>
+                <li>Glossaire</li>
+                <li>Certifications</li>
+                <li>Où acheter</li>
+                <li>Nous contacter</li>
+            </ul>
+        </nav>
+    </div>
+
 </header>
